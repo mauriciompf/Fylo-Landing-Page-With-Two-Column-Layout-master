@@ -73,13 +73,13 @@ button {
 	gap: clamp(1.13rem, calc(0.54rem + 2.49vw), 2.38rem);
 }
 
-.list-item a {
+.nav-list a {
 	color: var(--clr-primary-very-dark-blue);
 	font-size: clamp(0.70rem, calc(0.70rem + 0.25vw), 2.00rem);
 }
 
-.list-item a:hover,
-.list-item a:focus {
+.nav-list a:hover,
+.nav-list a:focus {
 	text-decoration: underline;
 }
 
@@ -387,12 +387,13 @@ p {
 @media (min-width: 1024px) {
 	.section-intro .input-box {
 		display: grid;
-		grid-template-columns: 2fr 1fr;
+		align-items: center;
+    grid-template-columns: 3fr 2fr;
 	}
 
 	.section-intro .btn-sign-up {
 		margin: 0;
-	}
+	} 
 
 	.section-bottom-wrap {
 		display: flex;
@@ -432,7 +433,7 @@ p {
 @media (min-width: 1391px) {
 	.section-intro .btn-sign-up {
 		margin: 0;
-		margin-inline-start: .5rem;
+/*		margin-inline-start: .5rem;*/
 		width: 60%;
 	}
 }
