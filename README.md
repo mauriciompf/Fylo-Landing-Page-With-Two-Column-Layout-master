@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop Screenshot](./images/huddle-desktop.png)
+![Desktop Screenshot](./images/fylo-desktop.png)
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-Ltqz4x3p1C)
-- Live Site URL: [Live Site](https://mauriciompf.github.io/Huddle-Landing-Page-With-Alternating-Feature-Blocks-Master/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/fylo-landing-page-with-two-column-layout-zQfyNg5luM)
+- Live Site URL: [Live Site](https://mauriciompf.github.io/Fylo-Landing-Page-With-Two-Column-Layout-master/)
 
 ## My process
 
